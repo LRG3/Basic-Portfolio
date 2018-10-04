@@ -1,0 +1,12 @@
+
+left-right-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    background-color: white;
+    border-color: gray;
+    margin-bottom: 30px;
+    width: 960px;
+}
